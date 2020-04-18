@@ -8,13 +8,13 @@
 
 SocketIoClient webSocket;
 
-const char* Host_Socket = "tanvuong.herokuapp.com/";
+const char* Host_Socket = "ngonhu.herokuapp.com";
 
 //const char* Host_Socket = "192.168.137.1";
 //unsigned int Port_Socket = 3000;
 unsigned int Port_Socket=80;
-const char* ssid = "Wifi Chua A1";
-const char* pwdWifi = "12345678";
+const char* ssid = "Quoc Nhu";
+const char* pwdWifi = "12345678910";
                                  
 /*==========================================================================================*/
 #define ON 1
